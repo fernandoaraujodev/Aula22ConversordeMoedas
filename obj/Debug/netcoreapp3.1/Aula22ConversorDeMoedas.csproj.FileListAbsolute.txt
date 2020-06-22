@@ -1,0 +1,13 @@
+C:\Users\pc\Desktop\Aula22ConversorDeMoedas\bin\Debug\netcoreapp3.1\Aula22ConversorDeMoedas.exe
+C:\Users\pc\Desktop\Aula22ConversorDeMoedas\bin\Debug\netcoreapp3.1\Aula22ConversorDeMoedas.deps.json
+C:\Users\pc\Desktop\Aula22ConversorDeMoedas\bin\Debug\netcoreapp3.1\Aula22ConversorDeMoedas.runtimeconfig.json
+C:\Users\pc\Desktop\Aula22ConversorDeMoedas\bin\Debug\netcoreapp3.1\Aula22ConversorDeMoedas.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Aula22ConversorDeMoedas\bin\Debug\netcoreapp3.1\Aula22ConversorDeMoedas.dll
+C:\Users\pc\Desktop\Aula22ConversorDeMoedas\bin\Debug\netcoreapp3.1\Aula22ConversorDeMoedas.pdb
+C:\Users\pc\Desktop\Aula22ConversorDeMoedas\obj\Debug\netcoreapp3.1\Aula22ConversorDeMoedas.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Aula22ConversorDeMoedas\obj\Debug\netcoreapp3.1\Aula22ConversorDeMoedas.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Aula22ConversorDeMoedas\obj\Debug\netcoreapp3.1\Aula22ConversorDeMoedas.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Aula22ConversorDeMoedas\obj\Debug\netcoreapp3.1\Aula22ConversorDeMoedas.AssemblyInfo.cs
+C:\Users\pc\Desktop\Aula22ConversorDeMoedas\obj\Debug\netcoreapp3.1\Aula22ConversorDeMoedas.dll
+C:\Users\pc\Desktop\Aula22ConversorDeMoedas\obj\Debug\netcoreapp3.1\Aula22ConversorDeMoedas.pdb
+C:\Users\pc\Desktop\Aula22ConversorDeMoedas\obj\Debug\netcoreapp3.1\Aula22ConversorDeMoedas.genruntimeconfig.cache
